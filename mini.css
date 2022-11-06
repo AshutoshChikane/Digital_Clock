@@ -1,0 +1,16 @@
+h3 {
+    color: rgb(0, 213, 255);
+    font-size: 1rem;
+}
+
+.cl {
+    color: rgb(0, 213, 255);
+    font-size: 1.3rem;
+}
+
+.container {
+    border: 30px brown solid;
+    margin: 2px;
+    width: 800px;
+    height: 260px;
+}

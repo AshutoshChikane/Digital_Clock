@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+
+.main {
+    /* border: 2px rgb(17, 0, 255) solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: rgb(232, 247, 21); */
+}
+
+.container {
+    border: 50px brown solid;
+    margin: 2px;
+    width: 75%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+    background-color: black;
+}
+
+.cl {
+    color: orange;
+    font-size: 5rem;
+}
+
+h3 {
+    color: orange;
+    font-size: 2.5rem;
+}

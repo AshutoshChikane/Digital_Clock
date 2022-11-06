@@ -1,0 +1,16 @@
+h3 {
+    color: yellow;
+    font-size: 1.2rem;
+}
+
+.cl {
+    color: yellow;
+    font-size: 1.8rem;
+}
+
+.container {
+    border: 40px brown solid;
+    margin: 2px;
+    width: 800px;
+    height: 350px;
+}
